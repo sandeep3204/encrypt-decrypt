@@ -41,7 +41,7 @@ If you don’t have **Visual Studio Code (VS Code)** installed, download it from
 
 ### **3️⃣ Set Up a Virtual Environment (Optional, Recommended)****
 ==========================================================================================================
-==========================================================================================================
+===========================================================
 
 Run the following command to create a virtual environment:
     python -m venv venv
