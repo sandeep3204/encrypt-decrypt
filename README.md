@@ -40,8 +40,7 @@ If Python is not installed, download and install it from [Python's official webs
 If you don’t have **Visual Studio Code (VS Code)** installed, download it from [VS Code's official site](https://code.visualstudio.com/).
 
 ### **3️⃣ Set Up a Virtual Environment (Optional, Recommended)****
-==========================================================================================================
-===========================================================
+
 
 Run the following command to create a virtual environment:
     python -m venv venv
